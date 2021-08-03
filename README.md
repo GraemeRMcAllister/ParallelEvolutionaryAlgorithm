@@ -1,3 +1,7 @@
+Graeme McAllister Honours project code - original Groovy demonstratinf from J. Kerridge with permission
+
+
+_______________________________________________________________________________________________
 This repository contains a set of demonstrations of the Groovy parallel Patterns (GPP) library.
 
 Contact J.Kerridge@napier.ac.uk
